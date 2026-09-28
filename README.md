@@ -60,7 +60,7 @@ La aplicación se encuentra publicada en Microsoft Store.
 ## 🔒 Código fuente
 
 El código fuente completo de MetaRush se mantiene en un repositorio privado.
-Este repositorio público está orientado a mostrar la aplicación, sus funcionalidades, tecnologías utilizadas y resultados finales como parte de mi portafolio profesional.
+Este repositorio público está orientado a mostrar la aplicación, sus funcionalidades, tecnologías utilizadas y resultados finales.
 
 ---
 
