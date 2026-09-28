@@ -51,9 +51,11 @@ La aplicación se encuentra publicada en Microsoft Store.
 
 ## 📷 Capturas de pantalla
 
-Próximamente se agregarán capturas de las principales secciones de MetaRush.
-
----
+<img width="631" height="595" alt="image" src="https://github.com/user-attachments/assets/ecc7284c-13d5-4da0-8196-c56902c885f8" />
+<img width="785" height="594" alt="image" src="https://github.com/user-attachments/assets/a691f04b-430c-4ed9-b422-9cd33e431670" />
+<img width="785" height="591" alt="image" src="https://github.com/user-attachments/assets/7162f9bb-08aa-4d75-8fc2-37a878335e23" />
+<img width="637" height="593" alt="image" src="https://github.com/user-attachments/assets/48ad1455-38ff-47af-b2cf-59c931cb5ae2" />
+<img width="784" height="586" alt="image" src="https://github.com/user-attachments/assets/3885283d-2620-400b-8f6a-9413a2946427" />
 
 ## 🔒 Código fuente
 
